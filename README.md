@@ -25,4 +25,4 @@ Model selection on accuracy.
 Flask based deployment of model.
 Making Html Templates for input and output.
 Finally deployment of model on Heroku.
-![image](https://github.com/seemaacharya/Classification-of-Myocardial-Infarction-/assets/80391983/a720deeb-dc94-4fd3-b65b-6485b5f57938)
+![image](https://github.com/seemaacharya/Classification-of-Myocardial-Infarction-/assets/80391983/ac0f6bb9-b6ba-4247-984d-33940365f328)
